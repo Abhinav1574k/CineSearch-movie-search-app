@@ -17,5 +17,3 @@ CineSearch
 ├── Screenshots
 ├── Live Demo
 └── Learning Outcomes
-
-Test rollback demonstration
